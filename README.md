@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 
-- 🌱 Estudando HTML, CSS, JS
+- 🌱 
 - 😄 
 
 <div align="center">
