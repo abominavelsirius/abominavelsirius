@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje trabalho como Entregador
+- 🔭 
 - 🌱 Estudando HTML, CSS, JS
-- 😄 Pronouns: ele/dele
+- 😄 
 
 <div align="center">
   <a href="https://github.com/abominavelsirius">
